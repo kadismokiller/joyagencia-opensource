@@ -9,7 +9,7 @@ identação e uso de comentários nas funções compatível com PHPDOC.
 
 <h4>Instalação</h4>
 Para testar o script, inserir as tabelas do arquivo sql.sql no banco de dados e configure o arquivo mysql.php na pasta includes de acordo com as informações do servidor MySQL.<br>
-Os erros de php são salvos no arquivo erros.log, por isoo é necessário CHMOD 777 se estiver testando no linux.
+Os erros de php são salvos no arquivo erros.log, por isso é necessário CHMOD 777 se estiver testando no linux.
 
 <h4>Informações para teste:</h4>
 <b>E-mail:</b> teste@teste.com<br>
